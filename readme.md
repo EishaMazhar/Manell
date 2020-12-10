@@ -52,4 +52,4 @@ Magics in businesses do not happen overnight! Manell's aim is to standby the onb
 
 ## Prototype (Interactions Demo)
 
-[![Manell](http://i.imgur.com/Ot5DWAW.png)](https://www.youtube.com/watch?v=LBxTrYGvf50 "Manell")
+[![Manell](https://www.youtube.com/watch?v=LBxTrYGvf50)](https://www.youtube.com/watch?v=LBxTrYGvf50 "Manell")
