@@ -50,6 +50,17 @@ Magics in businesses do not happen overnight! Manell's aim is to standby the onb
 - Home entrepreneurs community/forum where they can talk about their experiences and ways for running their businesses smoothly.
 - Scaling up business to sell products to international buyers
 
+## How we built it
+
+We built it in the following steps:
+
+- Analyzed the requirements
+- Wireframing
+- Making the UI
+- Prototyping
+- Building the app(evolutionary model - in progress)
+- Deployment
+
 ## Prototype (Interactions Demo)
 
 [![Manell](https://img.youtube.com/vi/LBxTrYGvf50/0.jpg)](https://www.youtube.com/watch?v=LBxTrYGvf50 "Manell")
