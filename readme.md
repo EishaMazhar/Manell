@@ -25,41 +25,41 @@ Many home based business owners are unaware about their entrepreneurial personal
 
 Magics in businesses do not happen overnight! Manell's aim is to standby the onboarded businesses and to manage their workflow as they scale through all struggles. Furthermore, keeping the customers delighted is an extended goal, since a satisfied customer base keeps the business going. Many of the time home-based business overlooks this factor and misses upon greater opportunities.
 
-- Balancing Quality and Growth(Reviews+Scaling+Discipline Training)
-- Remove founder dependence in the long run- (Via Trust)
-- Effective Marketing (Social Media+Search Engine Visibility+App)
-- Inventory Management (Bookkeeping and transparent cash flows)
-- Customer Service
-- Transparent Stats
-- Multiple and verified payment gateways for transactions
-- Increasing audience for sellers
-- Fair payments - helping seller to sell product at right value that they deserve to get
+- Balancing Quality and Growth(Reviews+Scaling+Discipline Training).
+- Remove founder dependence in the long run- (Via Trust).
+- Effective Marketing (Social Media+Search Engine Visibility+App).
+- Inventory Management (Bookkeeping and transparent cash flows).
+- Customer Service.
+- Transparent Stats.
+- Multiple and verified payment gateways for transactions.
+- Increasing audience for sellers.
+- Fair payments - helping seller to sell product at right value that they deserve to get.
 - Varieties of a single product at one place so price comparison would be possible.
 
 ## Innovation (Making Manell more than an e-commerce platform)
 
-- Providing design and photography solution to seller to help them sell their product right.
-- Utilizing recyclable material for making wall arts and other creative material - low cost & environment friendly
+- Providing design and photography service to sellers to help them better represent their products.
+- Utilizing recyclable material for making wall arts and other creative material: low cost & environment friendly.
 - A regular blog to keep customers engaged (i.e: Helping them what products are suitable to buy for which event), and also promoting the creative talent, trends and culture.
-- Data analytics and releasing a quaterly report to tell people about the creative/home-based market trends
+- Data analytics and releasing a quaterly report to tell people about the creative/home-based market trends.
 
 ## Possible Future Opportunities
 
-- Bringing vendors on board who can help us provide kits/raw material to home entrepreneurs at their doorsteps for running their business smoothly
-- Selling the parishable home-made products i.e: customized cakes for events, food and snacks by home chefs.
+- Bringing vendors on board who can help us provide kits/raw material to home entrepreneurs at their doorsteps for running their business smoothly.
+- Selling the perishable home-made products i.e: customized cakes for events, food and snacks by home chefs.
 - Home entrepreneurs community/forum where they can talk about their experiences and ways for running their businesses smoothly.
-- Scaling up business to sell products to international buyers
+- Scaling up business to sell products to international buyers.
 
 ## How we built it
 
 We built it in the following steps:
 
-- Analyzed the requirements
-- Wireframing
-- Making the UI
-- Prototyping
-- Building the app(evolutionary model - in progress)
-- Deployment
+- Analyzed the requirements.
+- Wireframing.
+- Making the UI.
+- Prototyping.
+- Building the app(evolutionary model - in progress).
+- Deployment.
 
 ## Prototype (Interactions Demo)
 
